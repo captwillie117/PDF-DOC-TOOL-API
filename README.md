@@ -1,2 +1,3 @@
-# bookish-computing-machine
-Upload a PDF/Docx/Txt → returns clean text, summary, or even word count.
+# PDF & Document Tools API
+
+Upload PDF / DOCX / TXT → extract text, generate summary, or get word count.

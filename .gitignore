@@ -1,9 +1,12 @@
-__pycache__/
-*.py[cod]
 .env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env.*
 .venv/
-env/
 venv/
+.idea/
+.vscode/
 .DS_Store
-.pytest_cache/
-.mypy_cache/
